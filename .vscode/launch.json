@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ByteTradeApplication<ByteTrade>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.shahid.ByteTrade.ByteTradeApplication",
+            "projectName": "ByteTrade",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
